@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">Hi, I'm Vinitha
- 👋 About Me: 
-- 🔭 I’m MCA graduate as a fresher I am eager to learn
-- 🌱 I’m currently learning advance JavaScript and Django REST 
-- 👯 I’m looking for a job/ Internship as a Web Developer or Software Trainee 
-- 📫 How to reach me: [Your Email or Social Media]</p>
+<p align="left">Hi, I'm Vinitha<br>
+ 👋 About Me: <br>
+- 🔭 I’m MCA graduate as a fresher I am eager to learn <br>
+- 🌱 I’m currently learning advance JavaScript and Django REST <br>
+- 👯 I’m looking for a job/ Internship as a Web Developer or Software Trainee <br>
+- 📫 How to reach me: [Your Email or Social Media]</p><br>
 
 ###
 
